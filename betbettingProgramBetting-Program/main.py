@@ -1,0 +1,12 @@
+win1 = input("home,draw or away\n")
+win2 = input("how many times won out of 5:\n")
+win3 = input("how much vale of bit\n")
+win4 = input("home,draw or away\n")
+win5 = input("how many times won out of 5:\n")
+win6 = input("how much vale of bit\n")
+Team_A = int(win1) + int(win2) + float(win3)
+Team_B = int(win4) + int(win5) + float(win6)
+if win5 =
+print(Team_A)
+print(Team_B)
+print("add + 1 to away team")
